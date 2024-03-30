@@ -1,0 +1,2 @@
+install_name_tool -change @rpath/libglfw.3.dylib /Users/user/Desktop/KTDH/dependences/lib/libglfw.3.dylib /Users/user/Desktop/KTDH/app
+export DYLD_LIBRARY_PATH=/Users/user/Desktop/KTDH/dependences/lib
